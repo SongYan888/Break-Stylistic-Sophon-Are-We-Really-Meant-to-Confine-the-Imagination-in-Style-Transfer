@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/22350795/236680126-0b1cdd62-d6fc-4620-b998-75ed6c31bf6f.png" height=40>
 </p>
 
-## Exploiting Diffusion Prior for Real-World Image Super-Resolution
+## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
 
 [Paper](https://arxiv.org/abs/2305.07015) | [Project Page](https://iceclear.github.io/projects/stablesr/) | [Video](https://www.youtube.com/watch?v=5MZy9Uhpkw4) | [WebUI](https://github.com/pkuliyi2015/sd-webui-stablesr) | [ModelScope](https://modelscope.cn/models/xhlin129/cv_stablesr_image-super-resolution/summary) | [ComfyUI](https://github.com/gameltb/comfyui-stablesr)
 
