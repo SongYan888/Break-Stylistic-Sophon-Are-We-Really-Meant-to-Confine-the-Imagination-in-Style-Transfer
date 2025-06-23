@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cc915c3b-cbdb-4516-a171-f3e25e779da8" height=100> <img src="https://github.com/user-attachments/assets/9092b3ab-fbe6-4c48-8c4a-97e146b95f1c" height=100> <img src="https://github.com/user-attachments/assets/4db11fa1-a624-401b-aa7f-c91bc95a8efd" height=100>
+  <img src="https://github.com/user-attachments/assets/34e1cadc-6c07-469c-8cc1-e2ab7b397c4d" height=100> <img src="https://github.com/user-attachments/assets/17d9b84f-b011-4b46-921e-64137068dbf4" height=100> <img src="https://github.com/user-attachments/assets/cc915c3b-cbdb-4516-a171-f3e25e779da8" height=100> <img src="https://github.com/user-attachments/assets/9092b3ab-fbe6-4c48-8c4a-97e146b95f1c" height=100> <img src="https://github.com/user-attachments/assets/4db11fa1-a624-401b-aa7f-c91bc95a8efd" height=100>
 </p>
 
 ## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
