@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/22350795/236680126-0b1cdd62-d6fc-4620-b998-75ed6c31bf6f.png" height=40>
+  <img src="[https://user-images.githubusercontent.com/22350795/236680126-0b1cdd62-d6fc-4620-b998-75ed6c31bf6f.png](https://github.com/SongYan888/Break-Stylistic-Sophon-Are-We-Really-Meant-to-Confine-the-Imagination-in-Style-Transfer-/blob/main/logo2.png)" height=40>
 </p>
 
 ## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
