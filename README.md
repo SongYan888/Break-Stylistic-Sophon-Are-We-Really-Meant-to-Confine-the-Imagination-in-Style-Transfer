@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6.png" height=40>
+  <img src="https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6" height=40>
 </p>
+
 ![logo2](https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6)
 
 ![logo2](https://github.com/user-attachments/assets/f80d3056-f0e2-44f0-86fa-a8430454b195) ![11 标准彩色校徽文件](https://github.com/user-attachments/assets/9092b3ab-fbe6-4c48-8c4a-97e146b95f1c) ![国防科技大学logo(1)](https://github.com/user-attachments/assets/4db11fa1-a624-401b-aa7f-c91bc95a8efd)
