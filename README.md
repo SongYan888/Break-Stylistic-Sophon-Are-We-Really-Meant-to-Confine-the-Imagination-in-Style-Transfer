@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="![2F02A66E31BF084FE340463BB47_B9A95F73_185BC(1)](https://github.com/user-attachments/assets/cc915c3b-cbdb-4516-a171-f3e25e779da8)" height=40>
+  <img src="https://github.com/user-attachments/assets/cc915c3b-cbdb-4516-a171-f3e25e779da8" height=40> <img src="https://github.com/user-attachments/assets/9092b3ab-fbe6-4c48-8c4a-97e146b95f1c" height=40> <img src="https://github.com/user-attachments/assets/4db11fa1-a624-401b-aa7f-c91bc95a8efd" height=40>
 </p>
-
-![11 标准彩色校徽文件](https://github.com/user-attachments/assets/9092b3ab-fbe6-4c48-8c4a-97e146b95f1c) ![国防科技大学logo(1)](https://github.com/user-attachments/assets/4db11fa1-a624-401b-aa7f-c91bc95a8efd)
-
 
 ## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
 
