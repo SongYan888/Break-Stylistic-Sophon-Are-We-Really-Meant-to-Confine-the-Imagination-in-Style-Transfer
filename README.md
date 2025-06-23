@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![logo2](https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6)">
+  <img src=![logo2](https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6)>
 </p>
 
 ## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
