@@ -1,13 +1,12 @@
-<p align="center">
 ![logo2](https://github.com/user-attachments/assets/6e3c9973-1e3b-4a8e-b151-f98dd1e5c7e6)
-</p>
 
 ## Break Stylistic Sophon: Are We Really Meant to Confine the Imagination in Style Transfer?
 
 [Paper]([https://arxiv.org/abs/2305.07015](https://arxiv.org/pdf/2506.15033)) | [Project Page](https://iceclear.github.io/projects/stablesr/) | [Video](https://www.youtube.com/watch?v=5MZy9Uhpkw4) | [WebUI](https://github.com/pkuliyi2015/sd-webui-stablesr) | [ModelScope](https://modelscope.cn/models/xhlin129/cv_stablesr_image-super-resolution/summary) | [ComfyUI](https://github.com/gameltb/comfyui-stablesr)
 
 
-<a href="https://colab.research.google.com/drive/11SE2_oDvbYtcuHDbaLAxsKk_o3flsO1T?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> [![Hugging Face](https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Iceclear/StableSR) [![Replicate](https://img.shields.io/badge/Demo-%F0%9F%9A%80%20Replicate-blue)](https://replicate.com/cjwbw/stablesr) [![OpenXLab](https://img.shields.io/badge/Demo-%F0%9F%90%BC%20OpenXLab-blue)](https://openxlab.org.cn/apps/detail/Iceclear/StableSR)
+<a href="https://colab.research.google.com/drive/11SE2_oDvbYtcuHDbaLAxsKk_o3flsO1T?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo">
+</a> [![Hugging Face](https://img.shields.io/badge/Demo-%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Iceclear/StableSR) [![Replicate](https://img.shields.io/badge/Demo-%F0%9F%9A%80%20Replicate-blue)](https://replicate.com/cjwbw/stablesr) [![OpenXLab](https://img.shields.io/badge/Demo-%F0%9F%90%BC%20OpenXLab-blue)](https://openxlab.org.cn/apps/detail/Iceclear/StableSR)
 
 
 [Gary Song Yan](https://iceclear.github.io/), [Yusen Zhang](https://zsyoaoa.github.io/), [Jingyu Zhao](https://shangchenzhou.com/), [Hao Zhang](https://ckkelvinchan.github.io/), [Yang Zhangping](https://www.mmlab-ntu.com/person/ccloy/), [GuanYe Xiong](https://www.mmlab-ntu.com/person/ccloy/), [GuanYe Xiong](https://www.mmlab-ntu.com/person/ccloy/), [Yanfei Liu](https://www.mmlab-ntu.com/person/ccloy/), [Chengliang Zhong](https://www.mmlab-ntu.com/person/ccloy/), [Tao Zhang](https://www.mmlab-ntu.com/person/ccloy/), [YuJie He](https://www.mmlab-ntu.com/person/ccloy/), [Siyuan Tian](https://www.mmlab-ntu.com/person/ccloy/), [Yao Gou](https://www.mmlab-ntu.com/person/ccloy/), [Min Li](https://www.mmlab-ntu.com/person/ccloy/)
