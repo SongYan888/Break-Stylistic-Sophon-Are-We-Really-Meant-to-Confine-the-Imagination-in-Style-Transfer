@@ -18,6 +18,7 @@
 [Gary Song Yan](https://iceclear.github.io/), [Yusen Zhang](https://zsyoaoa.github.io/), [Jingyu Zhao](https://shangchenzhou.com/), [Hao Zhang](https://ckkelvinchan.github.io/), [Yang Zhangping](https://www.mmlab-ntu.com/person/ccloy/), [GuanYe Xiong](https://www.mmlab-ntu.com/person/ccloy/), [GuanYe Xiong](https://www.mmlab-ntu.com/person/ccloy/), [Yanfei Liu](https://www.mmlab-ntu.com/person/ccloy/), [Chengliang Zhong](https://www.mmlab-ntu.com/person/ccloy/), [Tao Zhang](https://www.mmlab-ntu.com/person/ccloy/), [YuJie He](https://www.mmlab-ntu.com/person/ccloy/), [Siyuan Tian](https://www.mmlab-ntu.com/person/ccloy/), [Yao Gou](https://www.mmlab-ntu.com/person/ccloy/), [Min Li](https://www.mmlab-ntu.com/person/ccloy/)
 
 ISAI-Lab, Xi'an Institute of High-tech 
+
 University of Science and Technology of China
 
 Tsinghua University
